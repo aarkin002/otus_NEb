@@ -23,4 +23,4 @@
    startup-config is not present
 3. Настроек vlan нет
 4. Версия ios 15/0 на первом скрине
-5. <img src="/lesson2/img/4.png" alt="Alt text"/>
+5. <img src="/lesson2/img/5.png" alt="Alt text"/>
