@@ -31,3 +31,9 @@
 <h3>Настройка базовых параметров на коммутаторе</h3>
 
 <img src="/lesson2/img/6.png" alt="Alt text"/>
+
+Конфигурация сохранена с помощью copy running-config startup-config
+
+Вход - пароль cisco
+
+В привелегированный пароль class
