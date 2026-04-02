@@ -34,6 +34,8 @@
 
 Конфигурация сохранена с помощью copy running-config startup-config
 
+vlan включен с помощью no shutdown (после этого пинг пошел:))
+
 Вход - пароль cisco
 
 В привелегированный пароль class
