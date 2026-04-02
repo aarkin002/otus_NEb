@@ -4,9 +4,14 @@
 1. Коммутатор имеет 26 портов (информация выдается при загрузке).
 <img src="/lesson2/img/2.png" alt="Alt text"/>
 
-   sh running-config показывает 2 Fast порта
+   a. sh running-config показывает 2 Fast порта
+   
    <img src="/lesson2/img/3.png" alt="Alt text"/>
-   Кол-во портов Gigabit Ethernet = 0-9
-   Кол-во портов F/E = 0-9 
+
+   b. Кол-во портов Gigabit Ethernet = 0-9
+   
+   Кол-во портов F/E = 0-9
+   
    Line vty 0-15
+
    <img src="/lesson2/img/4.png" alt="Alt text"/>
