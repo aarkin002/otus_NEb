@@ -16,4 +16,8 @@
 
    <img src="/lesson2/img/4.png" alt="Alt text"/>
 
-   2. Сообщение появляется потому что коммутатор не сконфигурирован
+2. Сообщение появляется потому что коммутатор не сконфигурирован
+   
+   Switch#show startup-config
+
+   startup-config is not present
