@@ -43,3 +43,7 @@ vlan включен с помощью no shutdown (после этого пин�
 Пинг
 
 <img src="/lesson2/img/7.png" alt="Alt text"/>
+
+Подключение по telnet (пишет ssh)
+
+<img src="/lesson2/img/8.png" alt="Alt text"/>
