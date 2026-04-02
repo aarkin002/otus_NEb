@@ -39,3 +39,7 @@ vlan включен с помощью no shutdown (после этого пин�
 Вход - пароль cisco
 
 В привелегированный пароль class
+
+Пинг
+
+<img src="/lesson2/img/7.png" alt="Alt text"/>
