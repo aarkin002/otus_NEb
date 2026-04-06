@@ -56,3 +56,16 @@ vlan включен с помощью no shutdown (после этого пин�
 2. Не понимаю почему у меня на скрине(подключение по телнет) в загруженной конфигурации не отображаются vlan и на флеш тоже не отображается файл vlan?
 
 <img src="/lesson2/img/10.png" alt="Alt text"/>
+
+<h1>Работа над ошибками:</h1>
+
+Смотрим через show version:
+
+<img src="/lesson2/img/11.png" alt="Alt text"/>
+
+Смотрим через show interface status листаем пробелом:
+
+<img src="/lesson2/img/12.png" alt="Alt text"/>
+
+
+
