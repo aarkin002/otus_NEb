@@ -67,5 +67,9 @@ vlan включен с помощью no shutdown (после этого пин�
 
 <img src="/lesson2/img/12.png" alt="Alt text"/>
 
+Смотрим через show running-config листаем пробелом:
+
+<img src="/lesson2/img/13.png" alt="Alt text"/>
+
 
 
