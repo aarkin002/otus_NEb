@@ -14,4 +14,10 @@
 
 <img src="/lesson5/img/4.png" alt="Alt text"/>
 
+Маки компьютеров 
 
+<img src="/lesson5/img/5.png" alt="Alt text"/>
+
+Маки коммутаторов
+
+<img src="/lesson5/img/6.png" alt="Alt text"/>
