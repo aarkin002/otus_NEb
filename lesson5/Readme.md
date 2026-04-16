@@ -3,3 +3,9 @@
 **Строим схему, стираем стартовый конфиг на 2 коммутаторах**
 
 <img src="/lesson5/img/2.png" alt="Alt text"/>
+
+Перезагружаем с помощью reload
+
+Настраиваем ПК
+
+<img src="/lesson5/img/3.png" alt="Alt text"/>
