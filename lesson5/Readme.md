@@ -10,6 +10,8 @@
 
 <img src="/lesson5/img/3.png" alt="Alt text"/>
 
-Настроили коммутаторы
+Настроили коммутаторы (сначала непровильно сохранил конфигурацию, но потом понял что нужно просто ENTER для подтверждения copy running-config startup-config нажать, а не Y)
 
 <img src="/lesson5/img/4.png" alt="Alt text"/>
+
+
