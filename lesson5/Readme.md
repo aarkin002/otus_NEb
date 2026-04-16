@@ -21,3 +21,7 @@
 Маки коммутаторов
 
 <img src="/lesson5/img/6.png" alt="Alt text"/>
+
+Наблюдаем построение таблицы МАК адресов с помощью пинг
+
+<img src="/lesson5/img/7.png" alt="Alt text"/>
