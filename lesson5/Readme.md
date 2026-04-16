@@ -9,3 +9,7 @@
 Настраиваем ПК
 
 <img src="/lesson5/img/3.png" alt="Alt text"/>
+
+Настроили коммутаторы
+
+<img src="/lesson5/img/4.png" alt="Alt text"/>
