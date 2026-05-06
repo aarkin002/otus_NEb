@@ -1,14 +1,15 @@
 <img src="/lesson9/img/1.png" alt="Alt text"/>
 
-Swith start config:
+Стартовый конфиг коммутатора (настроен):
 
 <img src="/lesson9/img/2.png" alt="Alt text"/>
 
-Router start config:
+Стартовый конфиг роутера (настроен):
 
 <img src="/lesson9/img/3.png" alt="Alt text"/>
 
 
+Назначаем ipv6
 
 interface vlan 1
 
@@ -20,48 +21,47 @@ ipv6 address 2001:db8:acad:1::b/64
 
 <img src="/lesson9/img/4.png" alt="Alt text"/>
 
-Naglyadno na routere
+Наглядно на роутере:
 
 <img src="/lesson9/img/5.png" alt="Alt text"/>
 
-Dalee no shutdown na oboih interfeisah
+Далее no shutdown на обоих интерфейсах
 
-Smotrim naznacheie IP na routere
+Смотрим наззначение ip на роутере
 
 <img src="/lesson9/img/6.png" alt="Alt text"/>
 
-g/0/0/0 naznacheni gruppi
+g/0/0/0 назначены группы
 
 FE80::202:4AFF:FE02:7901
 
 2001:DB8:ACAD:A::1
 
-Nactroika PC-B
+Натройка PC-B
 
-Individualnii adres  ne naznachen, tolko link-local
+Индивидуального адреса нет только линк-локал
 
 <img src="/lesson9/img/7.png" alt="Alt text"/>
 
-Vkluchaem IPv6 unicast-routing stavim auto na poluchenie ip na pc-b.
+Включаем IPv6 unicast-routing ставим auto на получение ip на pc-b.
 
-ip poluchen tk PC teper znaet o konfiguracii seti i mozahet na osnovanii etogo vibrat IP
+ip получен тк  PC теперь значет о конфигурации сети и может на основании этого выбрать ip
 
 <img src="/lesson9/img/8.png" alt="Alt text"/>
 
-Nastraivaem statiku na PC
+Настраиваем статику на ПК
 
 <img src="/lesson9/img/9.png" alt="Alt text"/>
 
 
-Proveryaem ip na routere i kommutatore
+Проверяем IP на роутере и коммутатору
 
 <img src="/lesson9/img/10.png" alt="Alt text"/>
 
-Pinga po link-local - net, po global est
+Пинга по link-local - нет, по global есть
 
 <img src="/lesson9/img/11.png" alt="Alt text"/>
 
-
-Pinga do pc-b toge net i esli mi ne pisali marshrut pochemu on dolgen bit
+Пинга до PC-B тоже нет, шлюз(пинг) по линк локал не доступен(в общем-то ничего по ЛЛ не пингуется), почему не понимаю, прошу помощи.
 
 
