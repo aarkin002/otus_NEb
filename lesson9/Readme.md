@@ -68,6 +68,14 @@ ip получен тк  PC теперь значет о конфигурации
 
 <img src="/lesson9/img/12.png" alt="Alt text"/>
 
+Настройки коммутатора
+
+<img src="/lesson9/img/13.png" alt="Alt text"/>
+
+пинг
+
+<img src="/lesson9/img/14.png" alt="Alt text"/>
+
 Пинг до интерфейсов роутера с обеих сторон есть, дальше пинг не идет, что с PC-a, что с PC-b. Прошу помощи.
 
 
