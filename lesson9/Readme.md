@@ -88,7 +88,9 @@ ip получен тк  PC теперь значет о конфигурации
 
 <img src="/lesson9/img/16.png" alt="Alt text"/>
 
+Настройки коммутатора
 
+<img src="/lesson9/img/17.png" alt="Alt text"/>
 
 
 
