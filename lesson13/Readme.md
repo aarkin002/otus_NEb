@@ -14,7 +14,7 @@
 
 Подключение по ssh к маршрутизатору (с ПК)
 
-<img src="/lesson13/img/5r1.png" alt="Alt text"/>
+<img src="/lesson13/img/5r1.PNG" alt="Alt text"/>
 
 Подключение по ssh к коммутатору (с ПК)
 
