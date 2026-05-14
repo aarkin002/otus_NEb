@@ -1,5 +1,7 @@
 <img src="/lesson13/img/1.png" alt="Alt text"/>
 
+Для подключения по SSH создал пользователя sshadm с паролем cisco (извиняюсь поспешил)
+
 Настройка коммутатора (дефолт гейт добавил)
 
 <img src="/lesson13/img/2.png" alt="Alt text"/>
