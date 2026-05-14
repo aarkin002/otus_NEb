@@ -18,15 +18,15 @@
 
 Подключение по ssh к коммутатору (с ПК)
 
-<img src="/lesson13/img/5s1.png" alt="Alt text"/>
+<img src="/lesson13/img/5s1.PNG" alt="Alt text"/>
 
 Подключение по ssh к коммутатору c маршрутизатора (с ПК)
 
-<img src="/lesson13/img/5r1-s1.png" alt="Alt text"/>
+<img src="/lesson13/img/5r1-s1.PNG" alt="Alt text"/>
 
 Выход с коммутатора до "уровня" маршрутизатора (с ПК)
 
-<img src="/lesson13/img/5s1-r1.png" alt="Alt text"/>
+<img src="/lesson13/img/5s1-r1.PNG" alt="Alt text"/>
 
 Ответ на вопрос:
 
