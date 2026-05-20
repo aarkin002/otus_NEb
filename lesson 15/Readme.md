@@ -52,6 +52,8 @@
 
 <img src="/lesson 15/img/12.PNG" alt="Alt text"/>
 
+При трассировке pc-b на pc-a показывается только шлюз 192.168.30.1 и сам pc-a (192.168.20.3)
+
 Пинги с ПК
 
 <img src="/lesson 15/img/13.PNG" alt="Alt text"/>
