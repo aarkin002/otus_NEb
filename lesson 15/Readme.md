@@ -57,3 +57,7 @@
 Пинги с ПК
 
 <img src="/lesson 15/img/13.PNG" alt="Alt text"/>
+
+Нативность на 1000 vlan на роутере
+
+<img src="/lesson 15/img/14.PNG" alt="Alt text"/>
