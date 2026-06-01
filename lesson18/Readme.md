@@ -38,5 +38,13 @@
 
 <img src="/lesson18/img/11.png" alt="Alt text"/>
 
+Включаем оставшиеся подключенные порты
 
+<img src="/lesson18/img/12.png" alt="Alt text"/>
+
+Смотрим STP
+
+<img src="/lesson18/img/13.png" alt="Alt text"/>
+
+Заблокированный порт изменился, потому что у 1 порт рут порт, а следующий по приоритету 2 порт
 
