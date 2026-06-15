@@ -40,6 +40,8 @@ S2 выключаем порты смотрим вланы
 
 <img src="/lesson21/img/9r1dhcp2.png" alt="Alt text"/>
 
+<img src="/lesson21/img/9r1dhcp3.png" alt="Alt text"/>
+
 Команды lease - нет
 
 <img src="/lesson21/img/9r1noLease.png" alt="Alt text"/>
