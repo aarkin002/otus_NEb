@@ -34,5 +34,5 @@ SLAAC STATELESS
 
 Как и pc-a
 
-<img src="/lesson21v6/img/8.зтп" alt="Alt text"/>
+<img src="/lesson21v6/img/8.png" alt="Alt text"/>
 
