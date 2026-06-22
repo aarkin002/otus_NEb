@@ -35,6 +35,46 @@
 
 •	Проверка сквозной связанности.
 
+Конфигурим роутер 1
 
+<img src="/lesson23/img/2.png" alt="Alt text"/>
 
+Конфигурим свитчи
 
+<img src="/lesson23/img/3.png" alt="Alt text"/>
+
+Конфигурим вланы на свитчах
+
+<img src="/lesson23/img/4.png" alt="Alt text"/>
+
+Отключаем Negotiation на свитчах
+
+<img src="/lesson23/img/5.png" alt="Alt text"/>
+
+Настраиваем порты доступа в влан 10
+
+<img src="/lesson23/img/6.png" alt="Alt text"/>
+
+Настраиваем порты в Паркинг, выключаем
+
+<img src="/lesson23/img/7.png" alt="Alt text"/>
+
+Показываем состояние портов
+
+<img src="/lesson23/img/8.png" alt="Alt text"/>
+
+Port-security
+
+<img src="/lesson23/img/9.png" alt="Alt text"/>
+
+DHCP snooping
+
+<img src="/lesson23/img/10.png" alt="Alt text"/>
+
+BPDU Guard
+
+<img src="/lesson23/img/11.png" alt="Alt text"/>
+
+Пинги
+
+<img src="/lesson23/img/12.png" alt="Alt text"/>
