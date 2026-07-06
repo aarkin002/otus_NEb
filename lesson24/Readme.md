@@ -26,5 +26,5 @@
 
 Задаем dead интервалы, проверяем пинги, стоимости.
 
-<img src="/lesson24/img/7.png" alt="Alt text"/>
+<img src="/lesson24/img/8.png" alt="Alt text"/>
 
