@@ -17,7 +17,7 @@
 
 <img src="/lesson30/img/7.png" alt="Alt text"/>
 
-<img src="/lesson30/img/13.png" alt="Alt text"/>
+<img src="/lesson30/img/8.png" alt="Alt text"/>
 
 Настраиваем ROaS
 
