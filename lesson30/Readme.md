@@ -34,3 +34,23 @@
 НЕТ HTTP(s) SERVER
 
 <img src="/lesson30/img/12.png" alt="Alt text"/>
+
+Не работает SSH
+
+<img src="/lesson30/img/13.png" alt="Alt text"/>
+
+Работает HTTP
+
+<img src="/lesson30/img/14.png" alt="Alt text"/>
+
+НЕ Работает HTTP
+
+<img src="/lesson30/img/15.png" alt="Alt text"/>
+
+Пинг SALES
+
+<img src="/lesson30/img/16.png" alt="Alt text"/>
+
+Пинг Operations
+
+<img src="/lesson30/img/17.png" alt="Alt text"/>
