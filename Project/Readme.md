@@ -16,14 +16,22 @@
 
 Реализация :
 
-Настройка коммутатора VLAN - Добавлены вланы 1000 (native), 999 (parking для не активных портов), 11 для ПК, так же настроены транки.
+Настройка коммутатора AS - VLAN - Добавлены вланы 1000 (native), 999 (parking для не активных портов), 11 для ПК, так же настроены транки.
 
 <img src="/Project/img1/0.PNG" alt="Alt text"/>
 
-Настройка коммутатора SSH:
+Настройка коммутатора AS - SSH:
 
 <img src="/Project/img1/1.PNG" alt="Alt text"/>
 
-Проверка работоспособности SSH:
+Проверка работоспособности AS - SSH:
 
 <img src="/Project/img1/2.PNG" alt="Alt text"/>
+
+Настройка коммутатора AS - STP выбран протокол RSTP (из-за скорости) коммутатор выбран корневым для своего влан (spanning-tree vlan № root primary):
+
+<img src="/Project/img1/3.PNG" alt="Alt text"/>
+
+Настройка коммутатора MS - STP выбран протокол RSTP (из-за скорости) коммутатор выбран корневым для своего влан (spanning-tree vlan № root primary):
+
+<img src="/Project/img1/4.PNG" alt="Alt text"/>
